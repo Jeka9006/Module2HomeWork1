@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "gOR2DntPLPTyX4KxG67ri6fOEkOprDfm5ETiWeZb2y7FsiW5MTCL0mQogQj535OCtNsJDlFMiU+3foBv8xmwvw==",
+  "success": true,
+  "projectFilePath": "D:\\Уроки\\С#\\Учеба\\Домашка C#\\Task module 2\\Module2HomeWork1\\Module 2 Homeork 1\\Module 2 Homeork 1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\umn90\\.nuget\\packages\\stylecop.analyzers\\1.1.118\\stylecop.analyzers.1.1.118.nupkg.sha512"
+  ],
+  "logs": []
+}
